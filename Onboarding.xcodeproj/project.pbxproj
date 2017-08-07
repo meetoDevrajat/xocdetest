@@ -14,6 +14,7 @@
 		04BC285E1F388B0800197635 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04BC285C1F388B0800197635 /* LaunchScreen.storyboard */; };
 		04BC28691F388B0800197635 /* OnboardingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC28681F388B0800197635 /* OnboardingTests.swift */; };
 		04BC28741F388B0800197635 /* OnboardingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC28731F388B0800197635 /* OnboardingUITests.swift */; };
+		04BC28821F38910600197635 /* afterclickviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC28811F38910600197635 /* afterclickviewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		04BC286F1F388B0800197635 /* OnboardingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OnboardingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04BC28731F388B0800197635 /* OnboardingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingUITests.swift; sourceTree = "<group>"; };
 		04BC28751F388B0800197635 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04BC28811F38910600197635 /* afterclickviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = afterclickviewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				04BC28531F388B0800197635 /* AppDelegate.swift */,
 				04BC28551F388B0800197635 /* ViewController.swift */,
+				04BC28811F38910600197635 /* afterclickviewViewController.swift */,
 				04BC28571F388B0800197635 /* Main.storyboard */,
 				04BC285A1F388B0800197635 /* Assets.xcassets */,
 				04BC285C1F388B0800197635 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				04BC28561F388B0800197635 /* ViewController.swift in Sources */,
 				04BC28541F388B0800197635 /* AppDelegate.swift in Sources */,
+				04BC28821F38910600197635 /* afterclickviewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
